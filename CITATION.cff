@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Offline Smart Home Automation System Using ESP32 and Bluetooth"
+message: "If you use this project, please cite this repository."
+authors:
+  - family-names: "Abariga"
+    given-names: "Joseph"
+version: 1.0
+date-released: 2026-07-08
