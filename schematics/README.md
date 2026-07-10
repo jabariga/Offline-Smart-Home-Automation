@@ -7,6 +7,11 @@ This folder contains electrical schematics and system wiring diagrams.
 - Circuit diagrams
 - Connection diagrams
 - Hardware configuration
+- Flowchart
+
+<img width="560" height="609" alt="image" src="https://github.com/user-attachments/assets/f0ed48a4-2907-4c9d-802e-30faf85f94c9" />
+Waterfall Model (SDLC)
+
 
 
 
