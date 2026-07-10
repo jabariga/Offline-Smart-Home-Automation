@@ -45,7 +45,9 @@ Flame Detecting Sensor
 Mobile app installed on real environment android phone (smart app installed)
 
 
+
 <img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/13a8a83d-0844-4764-9650-98595cc4d734" />
+
 
 
 Diagram showing System ready to be tested
