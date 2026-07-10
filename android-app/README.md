@@ -136,9 +136,150 @@ Serial.println(data);
 }
 
 
-[MIT App Blocks.pdf](https://github.com/user-attachments/files/29908124/MIT.App.Blocks.pdf)
+MIT APP CODE.
+
+when ListPicker1 .BeforePicking
+
+do
+
+set ListPicker1
+
+Elements
+
+to
+
+BluetoothClient1
+
+AddressesAndNames
+
+when ListPicker1 .AfterPicking
+do
+
+set ListPicker1
+
+Selection
+
+to
+
+call BluetoothClient1
+.Connect
+address
+
+ListPicker1 -
+
+Selection
+
+set ListPicker1
+
+Text
+
+to
+
+LUETOOTH CONNECTED
+
+when
+
+when
+
+Button5
+.Click
+
+Button1 .Click
+
+do
+
+call
+BluetoothClient1
+.SendText
+
+do
+
+call
+BluetoothClient1 .SendText
+
+text
+
+text
+
+" 5
+
+when
+Button2 .Click
+
+do
+
+call BluetoothClient1
+SendText
+
+when Button6
+Click
+
+text
+
+do
+
+call BluetoothClient1
+.SendText
+
+4
+
+text
+
+when Switch1
+.Changed
+
+do
+
+if
+
+Switch1. On
+
+true
+
+then
+
+call
+BluetoothClient1
+
+SendText
+text
+
+6
+
+else
+
+call
+
+BluetoothClient1
+SendText
+text
+
+" 2"
+
+when
+Button3
+
+Click
+
+do
+
+call BluetoothClient1
+SendText
+text
+
+= 7
+
+when Button4 Click
+do
+
+call
+BluetoothClient1
+.SendText
+text M
+F 3"
 
 
+<img width="495" height="492" alt="MIT BACKEND" src="https://github.com/user-attachments/assets/afa5f669-6712-4262-a484-bc1e93a9ae0a" />
 
  
 
