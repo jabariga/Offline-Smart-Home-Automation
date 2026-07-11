@@ -4,18 +4,18 @@ This folder contains the hardware design files, circuit diagrams, component list
 
 ## Main Components
 
-- Arduino Uno Micro-controller
+- Arduino Uno R3 Microcontroller
 - Relay Module
 - Temperature and Humidity Sensor
 - Bluetooth Communication Module
-- LCD 
+- LCD (20X4) &  (16X2)
   
 ## Other components 
 Breadboard 
-Sensors (IR Sensor, Air purity, Humidity and Temperature) 
-Modules (Camera ESP-12WiFiModule, Bluetooth module 
-Relays for connecting home appliances, 
+# Sensors (Air purity-MQ135 , Humidity and Temperature-DHT11)
+Modules  Bluetooth module-HC-05
+Relays for connecting home appliances, 5v 4-channel relay interface board
 Mobile phone to operate home appliances and 
-MIT app in mobile phone . 
-Power supply 
+MIT app on mobile phone . 
+Power supply 5v/3.3v 
 Arduino IDE (Software)
