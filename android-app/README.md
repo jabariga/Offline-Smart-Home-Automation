@@ -9,17 +9,6 @@ Screenshot of the Mobile app
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <img width="495" height="492" alt="MIT BACKEND" src="https://github.com/user-attachments/assets/afa5f669-6712-4262-a484-bc1e93a9ae0a" />
 
 
