@@ -6,13 +6,21 @@ This folder contains images related to the smart home automation system.
 
 - Hardware prototype images
 - Circuit diagrams
+- Breadboard
 - Mobile application screenshots
 - Sensor setup images
 - Testing screenshots
 
 <img width="617" height="378" alt="image" src="https://github.com/user-attachments/assets/70cb6c9f-4c72-4a3b-ad38-d12e406f32f2" />
 
-Arduino UNOR3 micro-controller board.
+Arduino UNO R3 microcontroller board.
+
+
+<img width="1999" height="1333" alt="breadboard" src="https://github.com/user-attachments/assets/a1080c58-6987-4d37-8665-906381c8f3ee" />
+
+
+Breadboard
+
 
 <img width="793" height="610" alt="image" src="https://github.com/user-attachments/assets/ee970f0d-453f-4439-a724-5306d64c07ef" />
 
@@ -50,6 +58,6 @@ Mobile app installed on real environment android phone (smart app installed)
 
 
 
-Diagram showing System ready to be tested
+Diagram showing the system ready to be tested
 
 
