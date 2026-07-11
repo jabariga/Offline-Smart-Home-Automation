@@ -4,11 +4,8 @@ This folder contains documentation related to the offline smart home automation 
 
 ## Contents
 
-- Installation Guide
-
 - System Description
 - Technical Documentation
-- Troubleshooting Guide
 
 
 ## Overview
